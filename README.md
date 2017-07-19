@@ -4,7 +4,7 @@ Pic2Stimulus convert pictures to a stimulus for experiment(Epecially psychology)
 At work now.
 
 
-#Currently Function
+# Currently Function
 ### Picutres in specified directory -> The long side size convert 450px
 #### And converted pictures arrange 450*450px(Background color is white).
 
